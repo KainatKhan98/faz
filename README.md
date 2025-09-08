@@ -133,4 +133,4 @@ Notes
     App follows clean MVVM architecture with separation of concerns.
 
 video recording link: https://drive.google.com/file/d/1KKlb-mnebg9LuxpKoYrYVH5rHM8UJMJv/view?usp=sharing
-screenshots link: 
+screenshots link: https://docs.google.com/document/d/1uq5cpsch2OZZJwnL8Tt00jPXhgSjTLcu/edit?usp=drive_link&ouid=108214558321543319144&rtpof=true&sd=true
